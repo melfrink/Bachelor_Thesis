@@ -4,7 +4,7 @@ Created on Sat Apr 25 10:05:16 2026
 
 @author: Mathies Elfrink, adapted from https://hmp.readthedocs.io/en/latest/notebooks/3-Applying_HMP_to_real_data.html
 
-Applying HMP
+Applying HMP - Reaction phase
 """
 
 #import all necessary packages
